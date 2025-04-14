@@ -1,5 +1,5 @@
 #define BLYNK_TEMPLATE_ID "TMPL3FkENj0uE"
-#define BLYNK_TEMPLATE_NAME "Temperature"
+#define BLYNK_TEMPLATE_NAME "Cold Chain Supply Management"
 #define BLYNK_AUTH_TOKEN "_avYwuqmczZV-jgcrLm352DUknU8fTl8"
 
 #include <WiFi.h>
